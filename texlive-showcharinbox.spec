@@ -55,3 +55,11 @@ size.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Fri Aug 10 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.1-1
++ Revision: 813755
+- Import texlive-showcharinbox
+- Import texlive-showcharinbox
+

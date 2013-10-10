@@ -1,7 +1,7 @@
-# revision 27052
+# revision 29803
 # category Package
 # catalog-ctan /macros/latex/contrib/showcharinbox
-# catalog-date 2012-07-14 16:43:20 +0200
+# catalog-date 2013-04-08 09:07:09 +0200
 # catalog-license lppl1.3
 # catalog-version 0.1
 Name:		texlive-showcharinbox
@@ -55,11 +55,3 @@ size.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Fri Aug 10 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.1-1
-+ Revision: 813755
-- Import texlive-showcharinbox
-- Import texlive-showcharinbox
-

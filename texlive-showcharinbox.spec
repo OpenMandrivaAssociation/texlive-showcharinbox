@@ -3,7 +3,7 @@ Version:	29803
 Release:	2
 Summary:	Show characters inside a box
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/showcharinbox
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/showcharinbox
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/showcharinbox.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/showcharinbox.doc.r%{version}.tar.xz
